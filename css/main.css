@@ -1,0 +1,31 @@
+.my-background{
+    background-color: red;
+    color: white;
+}
+
+.my-card{
+    border: 1px solid rgb(146, 146, 146);
+    border-radius: 5px;
+}
+
+.my-card > img{
+    width: 100%;
+}
+
+
+.product__img{
+    height: 300px;
+}
+
+
+.parent{
+    width: 300px;
+    height: 300px;
+}
+
+.box{
+    width: fit-content;
+    /* height: 30px; */
+    background-color: aquamarine;
+    padding: 20px;
+}
